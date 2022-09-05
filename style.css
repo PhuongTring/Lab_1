@@ -1,0 +1,9 @@
+.exam-title{
+    text-align: center;
+    font-size: 35px ;
+    font-weight: bold ;
+}
+ol.exam-question{
+    margin-top: 0;
+    padding-left: 10;
+}
